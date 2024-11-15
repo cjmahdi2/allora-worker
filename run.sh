@@ -95,9 +95,9 @@ cat <<EOF > config.json
         "alloraHomeDir": "",
         "gas": "auto",
         "gasAdjustment": 1.5,
-        "nodeRpc": "$rpc",
-        "maxRetries": 1,
-        "delay": 1,
+        "nodeRpc": "https://allora-rpc.testnet.allora.network",
+        "maxRetries": 5,
+        "delay": 3,
         "submitTx": true
     },
     "worker": [
