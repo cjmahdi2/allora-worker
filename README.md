@@ -41,7 +41,7 @@ docker rmi custom-inference
 
 2. Clone the git repository
 ```
-git clone https://github.com/sarox0987/allora-worker.git
+git clone https://github.com/cjmahdi2/allora-worker.git
 cd allora-worker
 ```
 
